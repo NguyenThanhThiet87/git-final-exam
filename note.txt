@@ -1,4 +1,6 @@
-Cảm nhận về git: 
- - Linh hoạt 
- Tiện lợi 
+Cảm nhận về git:
+ - Linh hoạt
+ - Tiện lợi
  - Làm việc nhóm dễ dàng
+ - Hiệu suất cao
+ - Cộng đồng lớn
