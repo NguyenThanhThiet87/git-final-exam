@@ -1,0 +1,5 @@
+TÍNH NĂNG: test 
+ Mô tả: thực hiện test 
+ Lợi ích: Biết được cách hoạt động 
+ Cách dùng: Thực hiện trên git 
+ Cấu hình: Clone repository
