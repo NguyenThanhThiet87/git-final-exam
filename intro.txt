@@ -1,4 +1,5 @@
-Họ tên: Nguyễn Thanh Thiệt. Sinh viên năm cuối ngành công nghệ thông tin ở trường đại học Nam Cần Thơ. Luôn muốn ra trường có việc làm nên đã cố gắng mỗi ngày. Đã có một số kiến thức về lập trình web, lập trình android, winform và đang bắt đầu tìm hiểu về trí tuệ nhân tạo. Đang học toeic ở một trung tâm vào buổi tối. Tôi luôn cố gắng hết sức mình để tương lai được tốt hơn.
+Xin chào, tôi là Nguyễn Thanh Thiệt
+Sinh viên năm cuối ngành công nghệ thông tin ở trường đại học Nam Cần Thơ. Luôn muốn ra trường có việc làm nên đã cố gắng mỗi ngày. Đã có một số kiến thức về lập trình web, lập trình android, winform và đang bắt đầu tìm hiểu về trí tuệ nhân tạo. Đang học toeic ở một trung tâm vào buổi tối. Tôi luôn cố gắng hết sức mình để tương lai được tốt hơn.
 Sở thích: thích xem anime, nghe nhạc,...
 Kỹ năng: Hiểu cơ bản về C/C++, C#, python, Java. Biết lập trình winform, Web ASP.Net, biết cơ bản lập trình android java, biết trí tuệ nhân tạo trong lĩnh vực thị giác máy tính
 Kế hoạch học tập: sáng đi học theo lịch trên lớp, tối về đi học toeic ở trung tâm (3 buổi 1 tuần), nhưng buổi trống thì tối ưu dự án trí tuệ nhân tạo. Dự định tiếp theo học android java để làm đồ án. Tiếp theo sẽ học react native - lập trình thiết bị di động. 
