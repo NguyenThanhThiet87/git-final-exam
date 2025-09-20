@@ -4,6 +4,11 @@ Kế hoạch học tập trong 1 tuần:
  - Thứ 3 và các thứ trong tuần đi học trên lớp nếu có lịch học. 
  - Còn thời gian rảnh thì tự học
  Ngày bắt đầu: 28, Ngày kết thúc 4
+<<<<<<< Updated upstream
  - dòng mới 1
  - dòng mới 2
  - dòng mới 3
+=======
+ - Dòng new 1
+ - Dòng new 2
+>>>>>>> Stashed changes
